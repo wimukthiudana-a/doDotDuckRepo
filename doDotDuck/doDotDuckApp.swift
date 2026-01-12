@@ -11,7 +11,8 @@ import SwiftUI
 struct doDotDuckApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainMenuView()
         }
     }
 }
+
